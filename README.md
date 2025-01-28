@@ -1,4 +1,4 @@
 # Projeto-01.py
- Primeiro repositório versionado
+ Primeiro repositório versionado criado para projeto em Python.
 
- Repositório criado para projeto em Python.
+ Projeto base para cadastro de usuários. 
