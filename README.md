@@ -1,4 +1,3 @@
 # Projeto 01
- Primeiro repositório versionado criado para projeto em Python.
-
- Projeto base para cadastro de usuários. 
+_Primeiro repositório versionado_
+- Código base em Python para cadastro de usuários.
